@@ -19,7 +19,7 @@
 pip install -r requirements.txt
 ```
 
-##项目结构
+## 项目结构
 
 ```bash
 project/
