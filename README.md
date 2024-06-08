@@ -1,4 +1,4 @@
-# llm_python_requests_pytest_demo
+# python_requests_pytest_demo
 
 使用 `pytest` 和 `requests-mock` 进行接口自动化测试，支持从 Excel 文件读取测试数据
 
